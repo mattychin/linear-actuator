@@ -1,7 +1,7 @@
 #include <Servo.h> 
 
-Servo myServo;          // decleare a servo object 
-int ServoPin = 9;       // Decleare the servo pin
+Servo myServo;          // declare a servo object 
+int ServoPin = 9;       // declare the servo pin
 
 void setup() 
 {
